@@ -1,9 +1,15 @@
 # Ohio DOT Camera and Incident Mapper 
-<div align="center">
-    <a href="https://github.com/ericmaddox/odot-camera-and-incident-mapper/blob/main/media/odot-zephyr-logo.png">
-        <img src="https://github.com/ericmaddox/odot-camera-and-incident-mapper/blob/main/media/odot-zephyr-logo.png" alt="ODOT Zephyr Logo" width="200"/>
-    </a>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![dotenv](https://img.shields.io/badge/dotenv-000000?style=for-the-badge&logo=dotenv&logoColor=green) ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white) [![OHGO API](https://img.shields.io/badge/OHGO_API-28A745?style=for-the-badge&logoColor=white)](https://www.ohgo.com)
+
+
+
+
+
+
+<p align="center">
+  <img src="https://github.com/ericmaddox/odot-camera-and-incident-mapper/blob/main/media/odot_image_camera.JPG" width="460" />
+  <img src="https://github.com/ericmaddox/odot-camera-and-incident-mapper/blob/main/media/odot_image_incident.JPG" width="485" />
+</p>
 
 ## Description
 `ODOT Camera and Incident Mapper` is a Python script that fetches camera and incident data from the Ohio Department of Transportation (ODOT) API, and visualizes the data on an interactive map using the Folium library. This tool helps monitor highway conditions and visualize traffic incidents in Ohio.
