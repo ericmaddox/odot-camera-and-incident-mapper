@@ -1,5 +1,13 @@
 # Ohio DOT Camera and Incident Mapper 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![dotenv](https://img.shields.io/badge/dotenv-000000?style=for-the-badge&logo=dotenv&logoColor=green) ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white) [![OHGO API](https://img.shields.io/badge/OHGO_API-28A745?style=for-the-badge&logoColor=white)](https://www.ohgo.com)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![dotenv](https://img.shields.io/badge/dotenv-Installed-brightgreen?logo=dotenv)
+![Folium](https://img.shields.io/badge/Folium-77B829?logo=folium&color=lightgreen)
+[![OHGO API](https://img.shields.io/badge/OHGO_API-28A745)](https://www.ohgo.com)
+![License](https://img.shields.io/github/license/ericmaddox/odot-camera-and-incident-mapper)
+![Issues](https://img.shields.io/github/issues/ericmaddox/odot-camera-and-incident-mapper)
+![Last Commit](https://img.shields.io/github/last-commit/ericmaddox/odot-camera-and-incident-mapper)
+
+
 
 
 <div align="center">
