@@ -74,9 +74,10 @@
 - Detailed information is provided in the popups for each marker.
 
 ## Files
-- `odot_camera_and_incident_mapper.py`: The main script file.
+- `odot_camera_and_incident_mapper.py`: Main script file responsible for mapping incidents and camera data.
+- `odot_camera_info_cli.py`: Separate CLI script for accessing camera data in the terminal.
 - `.env`: File to store environment variables (not included in version control).
-- `ohgo_cameras_incidents_map.html`: The generated map file.
+- `ohgo_cameras_incidents_map.html`: Generated map file displaying camera locations and incidents.
 
 ## Contributing
 Feel free to submit issues or pull requests if you have suggestions for improvements or new features.
